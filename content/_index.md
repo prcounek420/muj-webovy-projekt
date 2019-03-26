@@ -1,27 +1,14 @@
 ---
-title: Home
+title: Lucidní snění
 ---
+# Lucidní snění
 
-# Hello World! (It works!)
+**Chtěla bych rozšířit povědomí o této problematice, portože moc lidí o ní stále neví. Navíc je tento fenomén v psychologii poměrně nový. **
 
-This are the contents of the Hugo start website front page.
+Lucidní snění je snění, během kterého si uvědomujeme, že jsme právě ve snu a můžeme ho sami ovládat. Spousta lidí si lucidní snění plete se spánkovou paralýzou, ale nemají nic společného. 
 
-## Something to read: Sonnet LXVI.
+Lucidní snění se začalo objevovat už vě čtvrtém stolení před naším letopočtem, avšak největšího rozmachu se dostalo teprve před několika desítkami let. Zásluhu na tom má celoživotní výzkum Francouze Stephena LaBerge.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
-
++ Gareth. Lucidní sny: nučte se vědomě snít
++ Stephen LaBerge. Lucidní snění
++ https://www.world-of-lucid-dreaming.com/
