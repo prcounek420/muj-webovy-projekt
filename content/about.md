@@ -4,50 +4,51 @@ menu:
   main:
     weight: 30
 ---
-_Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)_
-<p>Cílovou skupinou jsou pro nás lidi, kteří se chtějí dozvědět něco více o lucidním snění a popřípadě si to i vyzkoušet, jelikož stránka bude obsahovat i návod.Zaměřujeme se spíše na střední, popř. vysoké školy.<p>
+**Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)**  
+Cílovou skupinou jsou pro nás lidi, kteří se chtějí dozvědět něco více o lucidním snění a popřípadě si to i vyzkoušet, jelikož stránka bude obsahovat i návod.Zaměřujeme se spíše na střední, popř. vysoké školy.
   
-_Název webu_
-<p>Lucidní snění<p>
+**Název webu**  
+Lucidní snění
   
-_Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti_
-*/online/ Dr. ASPY Denholm. Lucid Dreaming. Dostupné z https://www.luciddreamingaustralia.com/lucid-dreaming . Poslední úprava 17. 3. 2017
-*/online/ Dr. ASPY Denholm. Lucid Dreaming. Dostupné z: https://www.luciddreamingaustralia.com/lucid-dreaming . Poslední úprava 17. 3. 2017
-*/online/ PhDr. PETERKOVÁ Michaela. Narkolepsie. Dostupné z: http://www.spanek.psychoweb.cz/x-narkolepsie.php. Poslední úprava 16. 5. 2010
-*/online/ PhDr. PETERKOVÁ Michaela. Poruchy spánku. Dostupné z: http://www.spanek.psychoweb.cz/poruchy-spanku.php. Poslední úprava 20. 4. 2009
-*/online/ TURNER Rebecca. Mnemonic Induction of Lucid Dreams. Dostupné z: http://www.world-of-lucid-dreaming.com/mnemonic-induction-of-lucid-dreams.html. Poslední úprava 1. 5. 2014
+**Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti**  
+1. /online/ Dr. ASPY Denholm. Lucid Dreaming. Dostupné z https://www.luciddreamingaustralia.com/lucid-dreaming . Poslední úprava 17. 3. 2017
+2. /online/ Dr. ASPY Denholm. Lucid Dreaming. Dostupné z: https://www.luciddreamingaustralia.com/lucid-dreaming . Poslední úprava 17. 3. 2017
+3. /online/ PhDr. PETERKOVÁ Michaela. Narkolepsie. Dostupné z: http://www.spanek.psychoweb.cz/x-narkolepsie.php. Poslední úprava 16. 5. 2010
+4. /online/ PhDr. PETERKOVÁ Michaela. Poruchy spánku. Dostupné z: http://www.spanek.psychoweb.cz/poruchy-spanku.php. Poslední úprava 20. 4. 2009
+5. /online/ TURNER Rebecca. Mnemonic Induction of Lucid Dreams. Dostupné z: http://www.world-of-lucid-dreaming.com/mnemonic-induction-of-lucid-dreams.html. Poslední úprava 1. 5. 2014
 
-_Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti_
-*FREUD, Sigmund. Výklad snů: O snu. Praha: Psychoanalytické nakladatelství, 1998. ISBN 80-86123-07-3.
-*GARETH. Lucidní sny: naučte se vědomě snít. Praha: Martin Koláček - E-knihy jedou,2015. ISBN 978-80-7512-204-9.
-*JUNG, Carl Gustav a Helmut BARZ. Výbor z díla. Vyd. 2. Brno: Nakladatelství Tomáše Janečka, 1997. ISBN 80-85880-14-8.
-*KAST, Verena. Sny: práce se sny v psychoterapeutické praxi. Praha: Portál, 2013. Spektrum (Portál). ISBN 978-80-262-0487-9.
-*LABERGE, Stephen. Lucidní snění. Praha: DharmaGaia, 2006. Nová éra. ISBN 80-86685-63-
-*LABERGE, Stephen. a Howard. RHEINGOLD. Exploring the world of lucid dreaming. New York: Ballantine Books, 1990. ISBN 9780345358943.
-*PLHÁKOVÁ, Alena. Učebnice obecné psychologie. Praha: Academia, 2004. ISBN 80-200-1086-6.
+**Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti**  
+1. FREUD, Sigmund. Výklad snů: O snu. Praha: Psychoanalytické nakladatelství, 1998. ISBN 80-86123-07-3.
+2. GARETH. Lucidní sny: naučte se vědomě snít. Praha: Martin Koláček - E-knihy jedou,2015. ISBN 978-80-7512-204-9.
+3. JUNG, Carl Gustav a Helmut BARZ. Výbor z díla. Vyd. 2. Brno: Nakladatelství Tomáše Janečka, 1997. ISBN 80-85880-14-8.
+4. KAST, Verena. Sny: práce se sny v psychoterapeutické praxi. Praha: Portál, 2013. Spektrum (Portál). ISBN 978-80-262-0487-9.
+5. LABERGE, Stephen. Lucidní snění. Praha: DharmaGaia, 2006. Nová éra. ISBN 80-86685-63-
+6. LABERGE, Stephen. a Howard. RHEINGOLD. Exploring the world of lucid dreaming. New York: Ballantine Books, 1990. ISBN 9780345358943.
+7. PLHÁKOVÁ, Alena. Učebnice obecné psychologie. Praha: Academia, 2004. ISBN 80-200-1086-6.
 
-_Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně_
-*https://www.youtube.com/watch?v=f6llb8hyPNQ 
-*https://www.youtube.com/watch?v=uYKl00sstHc
-*https://hipwallpaper.com/view/S7wQzM
+**Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně**  
+- https://www.youtube.com/watch?v=f6llb8hyPNQ   
+- https://www.youtube.com/watch?v=uYKl00sstHc  
+- https://hipwallpaper.com/view/S7wQzM  
 
-_Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)_
-<p>Jeden z prvků, který bychom chtěli na stránku zakomponovat,je odkazovací menu ( po kliknutí na jednotlivé položky menu se stránka posune na dané téma). Barevné schéma webu bychom chtěly držet v barvách obrázku uvedeného výše (fialová, modrá), webová stránka by měla působit klidně a uvolněně. Inspiraci pro desing webu bychom rády převzaly z této šablony pro wordpress : https://cs.wordpress.org/themes/screenr/<p>
+**Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)**  
+Jeden z prvků, který bychom chtěli na stránku zakomponovat,je odkazovací menu ( po kliknutí na jednotlivé položky menu se stránka posune na dané téma). Barevné schéma webu bychom chtěly držet v barvách obrázku uvedeného výše (fialová, modrá), webová stránka by měla působit klidně a uvolněně. Inspiraci pro desing webu bychom rády převzaly z této šablony pro wordpress : https://cs.wordpress.org/themes/screenr/
 
-_Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)_
-*fáze spánku
-*poruchy spánku
-*vybavování snů
-*lucidní snění - vysvětlení pojmu
-*lucidní snění - techniky navození - Reality testing
-*lucidní snění - techniky navození - WILD
-*lucidní snění - techniky navození - MILD
-*prodlužování a ukončení snu
-*praktické využití - noční můry
-*praktické využití - léčebný sen
-*praktické využití - předjímání a plnění přání
-*Strategii zveřejňování obsahu: jaké informace budete zveřejňovat? (Projekt poběží po zbytek semestru, tedy přibližně 8 týdnů.)
-*Budeme kopírovat strukturu výše, tedy: fáze a poruchy spánku,  vybavování snů, lucidní snění, techniky navození, praktické využití
+**Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)**  
+- fáze spánku
+- poruchy spánku
+- vybavování snů
+- lucidní snění - vysvětlení pojmu
+- lucidní snění - techniky navození - Reality testing
+- lucidní snění - techniky navození - WILD
+- lucidní snění - techniky navození - MILD
+- prodlužování a ukončení snu
+- praktické využití - noční můry
+- praktické využití - léčebný sen
+- praktické využití - předjímání a plnění přání
+
+**Strategii zveřejňování obsahu: jaké informace budete zveřejňovat? (Projekt poběží po zbytek semestru, tedy přibližně 8 týdnů.)**  
+Budeme kopírovat strukturu výše, tedy: fáze a poruchy spánku,  vybavování snů, lucidní snění, techniky navození, praktické využití.
 
 
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
