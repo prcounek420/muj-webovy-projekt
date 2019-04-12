@@ -12,6 +12,9 @@ menu:
       identifier: post
       url: /post/
       weight: 20
+    - name: Tvorba moodboardu pro náš web
+      url: /
+      weight: 20
 
 params:
   description: Description of my new site.
