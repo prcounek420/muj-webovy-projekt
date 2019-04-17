@@ -21,4 +21,14 @@ Rovněž jsem zařadila infografiku, která je dnes hodně žádáná a v mém n
 
 ---
 ### Popis moodboardu 2
-Svůj [moodboard](http://www.gomoodboard.com/boards/AOfiYeeg/share) jsem se snažila udělat tak, aby při pohledu na něj měl člověk dobrý pocit. Obsahuje hlavně grafickou inspiraci pro zpracování našeho webu, ale je tam i něco málo z toho, co bychom chtěli použít pro obsahovou stránku webu. Většinu inspirace jsem nasbírala na piterestu.
+Svůj [moodboard](http://www.gomoodboard.com/boards/AOfiYeeg/share) jsem se snažila udělat tak, aby při pohledu na něj měl člověk dobrý pocit. Obsahuje hlavně grafickou inspiraci pro zpracování našeho webu, ale je tam i něco málo z toho, co bychom chtěli použít pro obsahovou stránku webu. Většinu inspirace jsem nasbírala na piterestu. [Ukázka moodboardu 1](<a data-pin-do="embedPin" data-pin-lang="cs" data-pin-width="large" href="https://drive.google.com/drive/my-drive"></a>)
+---
+
+
+
+
+
+
+
+---
+###
