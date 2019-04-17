@@ -1,18 +1,20 @@
 ﻿---
-title:  "Niky je genius!"
-date:   2018-03-13
+title:  "Tvorba moodboardu pro náš web"
+date:   2019-04-17
 tags: 
-    - hello world
-    - start
+    - moodboard
+    - web
     - hugo
 ---
-You’ll find this post in your `content/post` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command `hugo server`, which launches a web server and auto-regenerates your site when a file is updated.
+### Popis moodboardu 1
+Svůj [moodboard](http://www.gomoodboard.com/boards/IVoC4guJ/edit) jsem stylizovala do barev a tématu podle domluvy s ostatními v týmu. Neuváděla jsem jednotlivé objekty, ale rovnou jsem je spojovala např. do článků, náhledu stránky či zápatí. Všechny použité obrázky jsem jednoduše googlila, ačkoli jsem zadané výrazy musela často měnit. Tvořila jsem v on-line nástroji Canva. Volila jsem jednoduché prvky, kdy pozadí stránky by bylo bílé a pouze některé články by mohly být zbarvené (viz odkaz). Snažila jsem se, aby celý design působil klidně a uvolněně, aby se čtenář cítit příjemně.  
+Rovněž jsem zařadila infografiku, která je dnes hodně žádáná a v mém návrhu by měla patřit ke každému článku stejně jako obrázky. Dokážu si představit, že v tomto duchu tvořím web, jen to bude chtít více zručnosti.
 
-To add new posts, simply add a file in the `content/post` directory that follows the convention `name-of-post.md` and includes the necessary front matter. You can even create it with command `hugo new post/name-of-post.md` (you need to be at site's root folder). Take a look at the source for this post to get an idea about how it works.
+![Ukázka moodboardu 1](https://www.pinterest.com/pin/661325526511852419/)
+---
 
-When you want to publish an article, simply remove `draft: true` from it's front matter.
 
 
-## What's next?
 
-See [another post]({{< ref "another-post.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
+
+
