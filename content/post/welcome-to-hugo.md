@@ -13,6 +13,6 @@ Rovněž jsem zařadila infografiku, která je dnes hodně žádáná a v mém n
 ![Ukázka moodboardu 1](<a data-pin-do="embedPin" data-pin-lang="cs" data-pin-width="large" href="https://www.pinterest.com/pin/661325526511852419/"></a>)
 ---
 ### Popis moodboardu 2
-Svůj [moodboard](http://www.gomoodboard.com/boards/AOfiYeeg/share) jsem se snažila udělat tak, aby jak barevně, tak tématicky odpovídal našemu tématu a barvám, které jsme si zvolily. Většinu obrázků jsem hledala pomocí pinterestu, proto můžete vidět maličký foťáček v dolním rohu. Můj moodboard obsahuje jak fotky, tak i texty, které bychom chtěli na naší webové stránce použít.
+Svůj [moodboard](http://www.gomoodboard.com/boards/AOfiYeeg/share) jsem se snažila udělat tak, aby jak barevně, tak tématicky odpovídal našemu tématu a barvám, které jsme si zvolily. Většinu obrázků jsem hledala pomocí pinterestu, proto můžete vidět maličký foťáček v dolním rohu. Můj moodboard obsahuje jak fotky, tak i texty, které bychom chtěli na naší webové stránce použít. [Ukázka moodboardu 1](<a data-pin-do="embedPin" data-pin-lang="cs" data-pin-width="large" href="https://www.pinterest.com/pin/661325526511852419/"></a>)
 ---
 ###
