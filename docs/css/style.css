@@ -34,10 +34,11 @@ nav ul {
   padding: 0;
 }
 
-nav li {
-  margin-bottom: 1em;
-}
 
 nav .active {
   font-weight: bold;
+}
+
+h1 {
+  color: red;
 }
