@@ -1,7 +1,7 @@
 ﻿<link href="style.css" rel="stylesheet"></link>
 (setq markdown-css-paths '("/path/to/custom.css"))
 ---
-title: O našem projektu 
+title: O našem projektu.
 menu:
   main:
     weight: 30
