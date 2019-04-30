@@ -1,11 +1,14 @@
-﻿<link href="style.css" rel="stylesheet"></link>---
+﻿<link href="style.css" rel="stylesheet"></link>
+(setq markdown-css-paths '("/path/to/custom.css"))
+---
 title: O našem projektu 
 menu:
   main:
     weight: 30
 ---
+<h1>
 **Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)**  
-Cílovou skupinou jsou pro nás lidi, kteří se chtějí dozvědět něco více o lucidním snění a popřípadě si to i vyzkoušet, jelikož stránka bude obsahovat i návod.Zaměřujeme se spíše na střední, popř. vysoké školy.
+Cílovou skupinou jsou pro nás lidi, kteří se chtějí dozvědět něco více o lucidním snění a popřípadě si to i vyzkoušet, jelikož stránka bude obsahovat i návod.Zaměřujeme se spíše na střední, popř. vysoké školy.</h1>
   
 **Název webu**  
 Lucidní snění
