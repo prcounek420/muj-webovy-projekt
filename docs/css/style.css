@@ -41,3 +41,7 @@ nav li {
 nav .active {
   font-weight: bold;
 }
+
+h1 {
+  color: red;
+}
