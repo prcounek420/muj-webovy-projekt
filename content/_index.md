@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lucidní snění
 ---
 # Lucidní snění
@@ -12,13 +12,3 @@ Lucidní snění se začalo objevovat už vě čtvrtém stolení před naším l
 + Gareth. Lucidní sny: nučte se vědomě snít
 + Stephen LaBerge. Lucidní snění
 + https://www.world-of-lucid-dreaming.com/
-body {
-  font-family: Helvetica;
-  font-size: 14px;
-  line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: Blue;
-  padding: 30px;
-  color: Black;
-}
