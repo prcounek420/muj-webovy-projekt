@@ -1,5 +1,6 @@
+---
 Další zdroje
-
+---
 PLHÁKOVÁ, Alena. Uèebnice obecné psychologie. Praha: Academia, 2004. ISBN 80-200-1086-6.
 V této knize se dozvíme obecné vìci o spánku, jako jsou fáze spánku, které jsou velice dùležité pro pochoponí cyklu snù.
 KAST, Verena. Sny: práce se sny v psychoterapeutické praxi. Praha: Portál, 2013. Spektrum (Portál). ISBN 978-80-262-0487-9.
