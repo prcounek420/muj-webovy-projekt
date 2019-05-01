@@ -1,6 +1,6 @@
 <div id = "Fancy">
----
 <h1 id = "zdroj10">
+---
 title: O našem projektu 
 menu:
   main:
