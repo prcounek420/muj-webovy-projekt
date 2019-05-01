@@ -43,29 +43,45 @@ nav .active {
 }
 
 #zdroj1 {
-  color: purple;
+  color: #3366ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj2 {
-  color: red;
+  color: #1a53ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj3 {
-  color: blue;
+  color: #0040ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj4 {
-  color: green;
+  color: #0039e6;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj5 {
-  color: magenta;
+  color: #0033cc;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj6 {
-  color: cyan;
+  color: #b300b3;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj7 {
-  color: yellow;
+  color: #cc00cc;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj8 {
-  color: brown;
+  color: #e600e6;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj9 {
-  color: red;
+  color: #ff00ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj10 {
+  color: #1a1aff;
+  font-family: "Times New Roman", Times, serif;
+}
+#Fancy {
+  background-image: linear-gradient(#000d33, #660066);
 }
