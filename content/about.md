@@ -1,11 +1,9 @@
-<h1 id = "zdroj10">
 ---
 title: O našem projektu 
 menu:
   main:
     weight: 30
 ---
-</h1>
 <p id="zdroj1">
 **Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)**  
 </p>
