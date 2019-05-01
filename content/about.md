@@ -4,6 +4,8 @@ menu:
   main:
     weight: 30
 ---
+
+<div id = "Fancy">
 <p id="zdroj1">
 **Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)**  
 </p>
@@ -13,18 +15,18 @@ Cílovou skupinou jsou pro nás lidi, kteří se chtějí dozvědět něco více
 <p id="zdroj3"> 
 **Název webu**  
 Lucidní snění
-
-**Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti**  
 </p>
 <p id="zdroj4"> 
+**Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti**  
+
 /online/ Dr. ASPY Denholm. Lucid Dreaming. Dostupné z https://www.luciddreamingaustralia.com/lucid-dreaming  
 /online/ Dr. ASPY Denholm. Lucid Dreaming. Dostupné z: https://www.luciddreamingaustralia.com/lucid-dreaming   
 /online/ PhDr. PETERKOVÁ Michaela. Narkolepsie. Dostupné z: http://www.spanek.psychoweb.cz/x-narkolepsie.php   
 /online/ PhDr. PETERKOVÁ Michaela. Poruchy spánku. Dostupné z: http://www.spanek.psychoweb.cz/poruchy-spanku.php  
 /online/ TURNER Rebecca. Mnemonic Induction of Lucid Dreams. Dostupné z: http://www.world-of-lucid-dreaming.com/mnemonic-induction-of-lucid-dreams.html
 </p>
-<p id="zdroj5"> 
 
+<p id="zdroj5"> 
 **Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti**
 FREUD, Sigmund. Výklad snů: O snu. Praha: Psychoanalytické nakladatelství, 1998. ISBN 80-86123-07-3.  
 GARETH. Lucidní sny: naučte se vědomě snít. Praha: Martin Koláček - E-knihy jedou,2015. ISBN 978-80-7512-204-9.  
@@ -34,20 +36,20 @@ LABERGE, Stephen. Lucidní snění. Praha: DharmaGaia, 2006. Nová éra. ISBN 80
 LABERGE, Stephen. a Howard. RHEINGOLD. Exploring the world of lucid dreaming. New York: Ballantine Books, 1990. ISBN 9780345358943.  
 PLHÁKOVÁ, Alena. Učebnice obecné psychologie. Praha: Academia, 2004. ISBN 80-200-1086-6.
 </p>
-<p id="zdroj6"> 
 
+<p id="zdroj6"> 
 **Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně**  <br>
 - https://www.youtube.com/watch?v=f6llb8hyPNQ <br>
 - https://www.youtube.com/watch?v=uYKl00sstHc <br>
 - https://hipwallpaper.com/view/S7wQzM <br>
 </p>
-<p id="zdroj7"> 
 
+<p id="zdroj7"> 
 **Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)**  
 Jeden z prvků, který bychom chtěli na stránku zakomponovat,je odkazovací menu ( po kliknutí na jednotlivé položky menu se stránka posune na dané téma). Barevné schéma webu bychom chtěly držet v barvách obrázku uvedeného výše (fialová, modrá), webová stránka by měla působit klidně a uvolněně. Inspiraci pro desing webu bychom rády převzaly z této šablony pro wordpress : https://cs.wordpress.org/themes/screenr/
 </p>
-<p id="zdroj8"> 
 
+<p id="zdroj8"> 
 **Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)**  
 - fáze spánku  
 - poruchy spánku  
@@ -61,8 +63,8 @@ Jeden z prvků, který bychom chtěli na stránku zakomponovat,je odkazovací me
 - praktické využití - léčebný sen  
 - praktické využití - předjímání a plnění přání 
 </p>
-<p id="zdroj9"> 
 
+<p id="zdroj9"> 
 **Strategii zveřejňování obsahu: jaké informace budete zveřejňovat? (Projekt poběží po zbytek semestru, tedy přibližně 8 týdnů.)**  
 Budeme kopírovat strukturu výše, tedy: fáze a poruchy spánku,  vybavování snů, lucidní snění, techniky navození, praktické využití.
 
