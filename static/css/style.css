@@ -91,7 +91,6 @@ nav .active {
 body div.page{
   color: #ffe6ff;
 }
-body div.wrapper h1 {
+h1.nadpis {
   color: #ffe6ff;
-  text-align: center;
 }
