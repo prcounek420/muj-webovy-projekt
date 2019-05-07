@@ -6,11 +6,13 @@
 header {
   padding: 30px 0 0;
   border-bottom: solid;
+  border-color: #ffe6ff;
 }
 
 footer {
   border-top: solid;
   clear: both;
+  border-color: #ffe6ff;
 }
 
 .page {
