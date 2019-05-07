@@ -4,6 +4,7 @@ menu:
   main:
     weight: 30
 ---
+
 <div id = "Fancy">
 <p id="zdroj1">
 **Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)**  
@@ -76,4 +77,3 @@ Learn more about Hugo with a [quick start guide][qs] or by exploring its [docume
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
 [hugoDocs]: https://gohugo.io/documentation/
 [qs]: https://gohugo.io/getting-started/quick-start/
-</div>
