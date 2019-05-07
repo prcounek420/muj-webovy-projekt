@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
-  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  <div class="wrapper">
+  <div id="wrapper">
     <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
       <p class="description">{{ .Site.Params.description }}</p>
