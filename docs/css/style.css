@@ -88,3 +88,6 @@ nav .active {
 #wrapper {
   background-image: linear-gradient(#000d33, #660066);
 }
+body div.page{
+  color: #ffe6ff;
+}
