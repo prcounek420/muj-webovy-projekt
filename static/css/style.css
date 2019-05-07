@@ -96,3 +96,9 @@ h1.nadpis {
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 50px;
 }
+p.description {
+  color: #ffe6ff;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 19px;
+}
