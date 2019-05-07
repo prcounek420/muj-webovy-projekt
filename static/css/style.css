@@ -84,4 +84,5 @@ nav .active {
 }
 #Fancy {
   background-image: linear-gradient(#000d33, #660066);
+  margin: -50;
 }
