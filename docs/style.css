@@ -1,27 +1,90 @@
 .wrapper {
-	margin: 50px auto;
-	max-width: 800px;
-	padding: 20px;
+  margin: 30px auto;
+  max-width: 800px;
+  padding: 20px;
 }
 
-.header {
-	padding: 30px 0;
-	border-bottom: solid;
+header {
+  padding: 30px 0 0;
+  border-bottom: solid;
 }
 
-.content {
-	float: right;
-	width: 75%;
-	border-left: solid;
-	padding-left: 30px;
+footer {
+  border-top: solid;
+  clear: both;
 }
 
-nav {
-	float: left;
-	width: 15%;
+.page {
+  float: right;
+  width: 70%;
+  border-left: solid;
+  padding-left: 1.5em;
+  padding-bottom: 2em;
+  min-height: 400px;
+}
+
+aside {
+  float: left;
+  width: 25%;
+  margin-top: 1em;
 }
 
 nav ul {
-	list-style-type: none;
-	padding: 0;
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li {
+  margin-bottom: 1em;
+}
+
+nav .active {
+  font-weight: bold;
+}
+
+#zdroj1 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj2 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj3 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj4 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj5 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj6 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj7 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj8 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj9 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj10 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#Fancy {
+  background-image: linear-gradient(#000d33, #660066);
+}
+#wrapper {
+  background-image: linear-gradient(#000d33, #660066);
 }
