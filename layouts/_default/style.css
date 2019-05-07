@@ -91,6 +91,6 @@ nav .active {
 body div.page{
   color: #ffe6ff;
 }
-.title {
-  color: #ffe6ff;
+head {
+  text-align: center;
 }
