@@ -1,5 +1,4 @@
-<h1 id="zdroj10">Další zdroje</h1>
-<br>
+﻿<br>
 <p id="zdroj1">
 **PLHÁKOVÁ, Alena.** Učebnice obecné psychologie. Praha: Academia, 2004. ISBN 80-200-1086-6. V této knize se dozvíme obecné věci o spánku, jako jsou fáze spánku, které jsou velice důležité pro pochoponí cyklu snů. </p>
 
