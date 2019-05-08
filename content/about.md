@@ -5,7 +5,6 @@ menu:
     weight: 30
 ---
 
-<div id = "Fancy">
 <p id="zdroj1">
 **Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)**  
 </p>
