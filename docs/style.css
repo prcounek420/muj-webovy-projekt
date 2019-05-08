@@ -34,10 +34,12 @@ aside {
 nav ul {
   list-style-type: none;
   padding: 0;
+  color: #ffe6ff;
 }
 
 nav li {
   margin-bottom: 1em;
+  color: #ffe6ff;
 }
 
 nav .active {
