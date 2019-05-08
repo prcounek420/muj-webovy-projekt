@@ -1,14 +1,5 @@
----
+﻿---
 title: Lucidní snění
 ---
-# Lucidní snění
-
-**Chtěla bych rozšířit povědomí o této problematice, portože moc lidí o ní stále neví. Navíc je tento fenomén v psychologii poměrně nový. **
-
-Lucidní snění je snění, během kterého si uvědomujeme, že jsme právě ve snu a můžeme ho sami ovládat. Spousta lidí si lucidní snění plete se spánkovou paralýzou, ale nemají nic společného. 
-
-Lucidní snění se začalo objevovat už vě čtvrtém stolení před naším letopočtem, avšak největšího rozmachu se dostalo teprve před několika desítkami let. Zásluhu na tom má celoživotní výzkum Francouze Stephena LaBerge.
-
-+ Gareth. Lucidní sny: nučte se vědomě snít
-+ Stephen LaBerge. Lucidní snění
-+ https://www.world-of-lucid-dreaming.com/
+# Co vůbec je lucidní snění? Je to snění, během kterého si uvědomujeme, že jsme právě ve snu a můžeme ho sami ovládat. Zkrátka se ve snu probudíme. Spadá do oblasti psychologie a je poměrně nová. Tomuto fenoménu se začal vědecký výzkum věnovat jen před několika desítkami let. Záznamy máme už ze čtvrtého stolení před naším letopočtem, avšak největšího rozmachu se mu dostalo teprve teď. Velká většina lidí o něm stále neví a někteří jej považují za kuriózní až neuvěřitelný a spousta z nich si lucidní snění plete se spánkovou paralýzou, ale nemají nic společného.
+Zde se dozvíte i něco málo o spánku jako takovém, jeho fázích a poruchách. Uvádíme zde i různé teoretické techniky navození lucidního snu. Rozšíříte si znalosti o tom, jak a kde se dají využít sny a jak si svůj sen prodloužit, či naopak zkrátit. Krásné sny…
