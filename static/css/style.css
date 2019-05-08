@@ -6,7 +6,7 @@
 header {
   padding: 30px 0 0;
   border-bottom: solid;
-  border-color: #000080;
+  border-color: #000033;
 }
 
 footer {
@@ -20,6 +20,7 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  border-color: #000033;
 }
 
 aside {
@@ -27,6 +28,7 @@ aside {
   width: 25%;
   margin-top: 1em;
   margin-left: 25px;
+  color: #ffe6ff;
 }
 
 nav ul {
