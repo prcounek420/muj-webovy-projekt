@@ -23,6 +23,10 @@ footer {
   border-color: #000033;
 }
 
+p {
+  font-size: 15px;
+}
+
 a {
   color: #ccd9ff;
 }
