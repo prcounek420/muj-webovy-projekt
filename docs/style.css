@@ -23,6 +23,10 @@ footer {
   border-color: #000033;
 }
 
+a {
+  color: #ffe6ff;
+}
+
 aside {
   float: left;
   width: 25%;
