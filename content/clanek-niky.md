@@ -49,11 +49,9 @@ Jestliže se probudíme samovolně nebo časně ráno, máme větší šanci si 
 
 </p>
 <img src="https://i.udemycdn.com/course/750x422/792640_6e1b.jpg">
-This is a minimal [Hugo][] website created for a course [VIKBA07][].
-
-Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].
-
+<p>
 [Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
 [hugoDocs]: https://gohugo.io/documentation/
 [qs]: https://gohugo.io/getting-started/quick-start/
+</p>
