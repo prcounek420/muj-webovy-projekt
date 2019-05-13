@@ -48,7 +48,7 @@ Jestliže se probudíme samovolně nebo časně ráno, máme větší šanci si 
 
 
 </p>
-![](obrazek1.jpg)
+<img src="https://i.udemycdn.com/course/750x422/792640_6e1b.jpg">
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
 
 Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].
