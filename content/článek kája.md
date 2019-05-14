@@ -1,5 +1,5 @@
 ---
-title: Fáze spánku
+title: FÃ¡ze spÃ¡nku
 menu:
   main:
     weight: 30
@@ -8,16 +8,44 @@ menu:
 <p id="zdroj1">
 </p>
 <p id="zdroj2">
-Vìtšina lidí spí 8 hodin a bdí 16. Existují rozdíly, dìti spávají a 10 hodin, na rozdíl od starších, kterım mùe staèit i 6 hodin. K narušení rytmu mùe dojít pøi pøechodu èasovım pásmem.
-<p> Pøi usínání nejprve prohloubenì dıcháme a pomalu zavíráme oèi. Poté pøecházíme do pøechodného stavu mezi bdìním a spánkem, kde se nìkdy objevují vırazné svalové køeèe, doprovázené škubáním celého tìla. To mùe vést ke krátkodobému probuzení. Stádia spánku byla popsána v souvislosti se zmìnami elektrické aktivity mozku. Pøi vızkumu zpozorovali vìdci rychlı, trhavı, ale koordinovanı pohyb oèí. Existují ètyøi spánková stádia, podle hloubky a frekvence mozkovıch vln. 
+VÄ›tÅ¡ina lidÃ­ spÃ­ 8 hodin a bdÃ­ 16. ExistujÃ­ rozdÃ­ly, dÄ›ti spÃ¡vajÃ­ aÅ¾ 10 hodin, na rozdÃ­l od starÅ¡Ã­ch, kterÃ½m mÅ¯Å¾e staÄit i 6 hodin. K naruÅ¡enÃ­ rytmu mÅ¯Å¾e dojÃ­t pÅ™i pÅ™echodu ÄasovÃ½m pÃ¡smem.
+PÅ™i usÃ­nÃ¡nÃ­ nejprve prohloubenÄ› dÃ½chÃ¡me a pomalu zavÃ­rÃ¡me oÄi. PotÃ© pÅ™echÃ¡zÃ­me do pÅ™echodnÃ©ho stavu mezi bdÄ›nÃ­m a spÃ¡nkem, kde se nÄ›kdy objevujÃ­ vÃ½raznÃ© svalovÃ© kÅ™eÄe, doprovÃ¡zenÃ© Å¡kubÃ¡nÃ­m celÃ©ho tÄ›la. To mÅ¯Å¾e vÃ©st ke krÃ¡tkodobÃ©mu probuzenÃ­. StÃ¡dia spÃ¡nku byla popsÃ¡na v souvislosti se zmÄ›nami elektrickÃ© aktivity mozku. PÅ™i vÃ½zkumu zpozorovali vÄ›dci rychlÃ½, trhavÃ½, ale koordinovanÃ½ pohyb oÄÃ­. ExistujÃ­ ÄtyÅ™i spÃ¡nkovÃ¡ stÃ¡dia, podle hloubky a frekvence mozkovÃ½ch vln. 
+I. fÃ¡ze: UsÃ­nÃ¡nÃ­ â€“ pÅ™echodnÃ© obdobÃ­ mezi bdÄ›nÃ­m a spÃ¡nkem.
+II: fÃ¡ze: LehkÃ½ spÃ¡nek â€“ vÃ½znamnÃ© snÃ­Å¾enÃ­ svalovÃ©ho napÄ›tÃ­. EEG obsahuje vÄ›tÅ¡Ã­ a pomalejÅ¡Ã­ vlny, kterÃ© pÅ™eruÅ¡ujÃ­ spÃ¡nkovÃ© vÅ™eteny. TvoÅ™Ã­ shluk rychlÃ½ch vln a K-komplexy, to jsou spÃ­Å¡e velkÃ©, ostrÃ© a pomalÃ© vlny.
+III. fÃ¡ze: HlubokÃ½ spÃ¡nek â€“ EEG zÃ¡znam tvoÅ™Ã­ asi 20-50 % delta-vlny.
+IV. fÃ¡ze: HlubokÃ½ spÃ¡nek â€“ EEG zÃ¡znam tvoÅ™Ã­ vÃ­ce jak 50 % delta-vlny.
+Jakmile skonÄÃ­ ÄtvrtÃ¡ fÃ¡ze, ÄlovÄ›k se vracÃ­ do fÃ¡zÃ­ dvÄ› a tÅ™i, dohromady trvajÃ­ pÅ™ibliÅ¾nÄ› 90 minut. PotÃ© nastÃ¡vÃ¡ prvnÃ­ etapa rychlÃ½ch pohybÅ¯ oÄÃ­. NÄ›kdy se oznaÄuje jako pÃ¡tÃ© stÃ¡dium nebo prostÄ› REM-spÃ¡nek a ostatnÃ­ jako non-REM-spÃ¡nek. BÄ›hem noci projdeme aÅ¾ pÄ›ti fÃ¡zemi REM. PrvnÃ­ trvÃ¡ pÅ™ibliÅ¾nÄ› 10 minut, postupnÄ› se prodluÅ¾ujÃ­. PoslednÃ­ mÅ¯Å¾e trvat aÅ¾ hodinu.
+
 </p>
-<p> I. fáze: Usínání – pøechodné období mezi bdìním a spánkem.</p>
-<p> II: fáze: Lehkı spánek – vıznamné sníení svalového napìtí. EEG obsahuje vìtší a pomalejší vlny, které pøerušují spánkové vøeteny. Tvoøí shluk rychlıch vln a K-komplexy, to jsou spíše velké, ostré a pomalé vlny.</p>
-<p> III. fáze: Hlubokı spánek – EEG záznam tvoøí asi 20-50 % delta-vlny.</p>
-<p> IV. fáze: Hlubokı spánek – EEG záznam tvoøí více jak 50 % delta-vlny.
+<p id="zdroj3"> 
+
 </p>
-<p> Jakmile skonèí ètvrtá fáze, èlovìk se vrací do fází dvì a tøi, dohromady trvají pøiblinì 90 minut. Poté nastává první etapa rychlıch pohybù oèí. Nìkdy se oznaèuje jako páté stádium nebo prostì REM-spánek a ostatní jako non-REM-spánek. Bìhem noci projdeme a pìti fázemi REM. První trvá pøiblinì 10 minut, postupnì se prodluují. Poslední mùe trvat a hodinu.
+<p id="zdroj4"> 
+
 </p>
+
+<p id="zdroj5"> 
+
+</p>
+
+<p id="zdroj6"> 
+
+</p>
+
+<p id="zdroj7"> 
+
+</p>
+
+<p id="zdroj8"> 
+
+</p>
+
+<p id="zdroj9"> 
+
+
+</p>
+<img src="https://i.udemycdn.com/course/750x422/792640_6e1b.jpg">
+<p>
 [Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
 [hugoDocs]: https://gohugo.io/documentation/
