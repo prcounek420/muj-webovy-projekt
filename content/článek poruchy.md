@@ -14,18 +14,18 @@ Mezi nejčastější poruchu patří nespavost. Je způsobena zátěžovou situa
 <p>Obecně se poruchy spánku dělí na dyssomnie (nedostatečné množství a/nebo kvalita spánku) a parasomnie (narušené vědomí). Další dělení je podle původu poruch na organické (poškození mozku) a neorganické – častější (psychologická příčina).
  </p>
 <p>Dyssomnie</p>
-  •	Insomnie – nespavost, spánek nevyhovuje svou kvalitou nebo délkou trvání
-  •	 Hypersomnie – nadměrná ospalost i přes den
-  Narkolepsie – nekontrolovatelné usnutí během dne kdykoli a kdekoli
-•	 Porucha spánku spánek-bdění – špatné načasování doby bdění a spánku, člověk bdí v noci a spí přes den (obvykle organického původu)
-•	 Spánková apnoe – krátkodobé zástavy dechu během spánku
+  <p>•	Insomnie – nespavost, spánek nevyhovuje svou kvalitou nebo délkou trvání</p>
+  <p>•	 Hypersomnie – nadměrná ospalost i přes den
+  Narkolepsie – nekontrolovatelné usnutí během dne kdykoli a kdekoli</p>
+<p>•	 Porucha spánku spánek-bdění – špatné načasování doby bdění a spánku, člověk bdí v noci a spí přes den (obvykle organického původu)</p>
+<p>•	 Spánková apnoe – krátkodobé zástavy dechu během spánku</p>
 
 <p>Parasomnie</p>
-•	Somnambulismus – náměsíčnost, během čtvrté fáze spánku se člověk pohybuje, může mít otevřené oči, ale přesto nevidí (může vést k úrazům), nereaguje na výzvy, po probuzení si nic nepamatuje
-•	 Noční děsy – člověk se probouzí ze snu s křikem a je vystrašený, často si na to nevzpomíná
-•	 Noční můry – živé, hrozivé sny, ze kterých se člověk probudí a obsah si dobře pamatuje
+<p>•	Somnambulismus – náměsíčnost, během čtvrté fáze spánku se člověk pohybuje, může mít otevřené oči, ale přesto nevidí (může vést k úrazům), nereaguje na výzvy, po probuzení si nic nepamatuje</p>
+<p>•	 Noční děsy – člověk se probouzí ze snu s křikem a je vystrašený, často si na to nevzpomíná</p>
+<p>•	 Noční můry – živé, hrozivé sny, ze kterých se člověk probudí a obsah si dobře pamatuje</p>
 
-<p>Spánková paralýza
+<p>Spánková paralýza</p>
  Stav mezi spánkem a bděním, kdy si člověk uvědomuje realitu, ale jeho tělo se stále nachází ve fázi REM, která mu neumožňuje se hýbat. Často je doprovázená narkolepsií. Může nastat při usínání (hypnagogická) nebo při probouzení (hypnopompická).   
 Doprovází ji halucinace jak sluchové, tak zrakové, kdy člověk vidí neznámé bytosti v místnosti. Tyto zážitky lidé nejčastěji popisují jako únosy UFO. Špatné dýchání, kdy lidé popisují, že jim něco nebo někdo leží na hrudníku. Pociťují strach a úzkost, mají zrychlený tep a prožívají paniku. Tento stav může trvat několik sekund nebo minutu, jsou zaznamenány případy až jedné hodiny, to se projevuje zejména při opakované paralýze, například několikrát do roka. Většina lidí ji zažije pouze jednou.
 Při tomto stavu lékaři doporučují pokusit se začít hýbat nejprve mimickými svaly. K předejití je potřeba mít dostatek pravidelného spánku, vyhýbat se stresovým situacím nebo omezit či úplně vyřadit stimulační přípravky při únavě.
