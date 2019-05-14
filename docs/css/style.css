@@ -1,16 +1,15 @@
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
-  padding: 20px;
 }
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
+  border-color: #000033;
 }
 
 footer {
-  border-top: solid;
   clear: both;
 }
 
@@ -21,55 +20,102 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  border-color: #000033;
+}
+
+a {
+  color: #ccd9ff;
+}
+
+p {
+  font-size: 19px;
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
+  margin-left: 25px;
+  color: #ffe6ff;
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
+  color: #ffe6ff;
 }
 
 nav li {
   margin-bottom: 1em;
+  color: #ffe6ff;
 }
 
 nav .active {
   font-weight: bold;
 }
 
-h1 {
-  color: red;
-}
-
 #zdroj1 {
-  color: purple;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj2 {
-  color: red;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj3 {
-  color: blue;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj4 {
-  color: green;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj5 {
-  color: magenta;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj6 {
-  color: cyan;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj7 {
-  color: yellow;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj8 {
-  color: brown;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
 }
 #zdroj9 {
-  color: red;
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#zdroj10 {
+  color: #ffe6ff;
+  font-family: "Times New Roman", Times, serif;
+}
+#Fancy {
+  background-image: linear-gradient(#000d33, #660066);
+}
+#wrapper {
+  background-image: linear-gradient(#000d33, #660066);
+}
+body div.page{
+  color: #ffe6ff;
+}
+body div.wrapper h1 {
+  color: #ffe6ff;
+  text-align: center;
+}
+h1.nadpis {
+  color: #48d0f2;
+  text-align: center;
+  font-family: "Josefin Sans";
+  font-size: 50px;
+}
+p.description {
+  color: #ffe6ff;
+  text-align: center;
+  font-family: "Josefin Sans";
+  font-size: 19px;
 }

@@ -2,14 +2,14 @@
 <html lang="{{ .Site.LanguageCode }}">
 <head>
   <meta charset="utf-8">
-  <title>{{ .Site.Title }}</title>
-  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+  <title class="title">{{ .Site.Title }}</title>
+   <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
 </head>
 <body>
-  <div class="wrapper">
+  <div id="wrapper">
     <header>
-      <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-      <p class="description">{{ .Site.Params.description }}</p>
+      <h1 class="nadpis">Lucidní snění</h1>
+      <p class="description">Probuďte se ve snu...</p>
     </header>
 
     <div class="page">
