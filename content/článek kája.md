@@ -44,7 +44,7 @@ Při usínání nejprve prohloubeně dýcháme a pomalu zavíráme oči. Poté p
 
 
 </p>
-<img src="http://lepsispanok.sk/assets/img/ospanku/graf.png">
+<img src="https://1gr.cz/fotky/bulvar/15/113/org/KHO5f871c_sleep_cycle_REM_8_hour_graph.gif">
 <p>
 [Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
