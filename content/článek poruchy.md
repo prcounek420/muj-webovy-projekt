@@ -59,7 +59,7 @@ Při tomto stavu lékaři doporučují pokusit se začít hýbat nejprve mimick�
 <p id="zdroj9"> 
 
 
-<p>
+
 [Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
 [hugoDocs]: https://gohugo.io/documentation/
