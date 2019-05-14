@@ -13,7 +13,7 @@ menu:
 I v Egyptě chápali sny jako znamení. Pravděpodobně začali praktikovat snovou inkubaci (latinsky incubare = vysedět vejce), kterou konali ve jménu boha léčení, Imhotepa. Řekové ji převzali a rozvinuli. Využívali ji jako léčebnou metodu a příprava na snění byla velice pečlivá.</p>
 <p> Ke konci antiky se zájem o sny vytrácí. Svatý Augustin se ptal, jestli je člověk odpovědný za své sny poté, co se mu do snů promítala sexuální témata. „Dnes bychom mu odpověděli, že není odpovědný za sny, ale za to, že tak vytěsňuje své sexuální potřeby.“ </p>
 <p> Pozornost věnovaná snům opět vzrostla v období romantismu, kdy podle názorů odborníků na rozdíl od antiky nepřicházejí sny od bohů, ale z hloubky nevědomí.</p>
-<p> Zhruba od 18. století se sny začaly spojovat s nevědomím, které je i klíčem k poznání duševního života. Například Freud považuje za základ výkladu snů metodu volné asociace (založil Francis Galton 1822-1911). V současnosti se sny zabývá neurologie, která přikládá nemalou váhu i určité míře podrážděnosti v oblasti mozkové aktivity. Což znamená, že sen pochází také z toho, co nás ten den ovlivnilo.<p/>
+<p> Zhruba od 18. století sse sny začaly spojovat s nevědomím, které je i klíčem k poznání duševního života. Například Freud považuje za základ výkladu snů metodu volné asociace (založil Francis Galton 1822-1911). V současnosti se sny zabývá neurologie, která přikládá nemalou váhu i určité míře podrážděnosti v oblasti mozkové aktivity. Což znamená, že sen pochází také z toho, co nás ten den ovlivnilo.<p/>
 
 
 
