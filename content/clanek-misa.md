@@ -45,7 +45,7 @@ I v Egyptě chápali sny jako znamení. Pravděpodobně začali praktikovat snov
 
 
 </p>
-<img src="https://i.udemycdn.com/course/750x422/792640_6e1b.jpg">
+<img src="https://ginawingsdotcom.files.wordpress.com/2018/10/sigmund-freud-ps.jpg">
 <p>
 [Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
