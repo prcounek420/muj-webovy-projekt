@@ -37,7 +37,6 @@ Rovněž jsem zařadila infografiku, která je dnes hodně žádáná a v mém n
 ### Popis moodboardu 2
 Svůj [moodboard](http://www.gomoodboard.com/boards/AOfiYeeg/share) jsem skládala podle toho, jaké jsme se zvolily téma (lucidní snění) a snažila jsem se tomu přizpůsobit jak obsah, tak i barvy, které jsem si zvolily. Většinu obrázků jsme hledala na pinterestu, proto je u některých v pravo dole takový malý foťáček. Přijde mi, že kombinace fialové a modré se k našemu tématu skvěle hodí. Těším se, až uvidím hotovou webovou stránku v těch barvách, jelikož tato kombinace se mi velmi líbí.
 
-![Ukázka moodboardu 2](<a data-pin-do="embedPin" data-pin-lang="cs" data-pin-width="large" href="https://www.pinterest.com/pin/661325526511852419/"></a>)
 ---
 ### Popis moodboardu 3
 Pro vytvoření [moodboardu]
