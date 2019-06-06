@@ -1,4 +1,4 @@
-﻿---
+---
 title: Další zdroje
 menu:
   main:
